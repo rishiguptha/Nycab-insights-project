@@ -1,0 +1,24 @@
+# FastAPI and ASGI server
+fastapi
+uvicorn
+
+# Google Cloud SDK for interacting with storage and authentication
+google-cloud-storage
+google-auth
+google-oauth
+
+# Machine Learning libraries
+torch
+transformers
+lightgbm
+scikit-learn
+joblib
+pandas
+
+# OpenAI integration for prediction or auxiliary services
+openai==0.28
+
+# Utility libraries
+pydantic
+numpy
+requests
